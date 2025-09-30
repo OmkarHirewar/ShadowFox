@@ -1,0 +1,22 @@
+/* All the CSS styles you had in <style> go here */
+:root {
+  --background: 215 30% 9%;
+  --foreground: 203 23% 90%;
+  --card: 217 33% 12%;
+  --card-foreground: 203 23% 90%;
+  --card-glass: 203 100% 50% / 0.03;
+  --primary: 188 96% 43%;
+  --primary-foreground: 215 30% 9%;
+  --primary-glow: 188 96% 53%;
+  --secondary: 217 33% 15%;
+  --secondary-foreground: 203 23% 90%;
+  --muted: 217 19% 27%;
+  --muted-foreground: 203 15% 63%;
+  --accent: 188 96% 43%;
+  --border: 217 33% 15%;
+  --input: 217 33% 15%;
+  --ring: 188 96% 43%;
+  --radius: 14px;
+}
+
+/* ... rest of your CSS (utility classes, components, responsive design, etc.) */
